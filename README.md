@@ -1,7 +1,7 @@
-![MasterHead](https://user-images.githubusercontent.com/5330387/183502751-f29645f1-ccb4-408b-be1d-c6ef31649345.png)
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Mayank Singh</h1>
-<h3 align="center">A passionate developer</h3>
-<img align ="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/programmer-cartoon-character-coding-icon-vector_1080480-50016.jpg">
+<h3 align="center">A programmer and a problem solver</h3>
+<img align ="right" alt="coding" width="400" src="https://img.freepik.com/free-photo/cyber-security-experts-working-with-tech-devices-neon-lights_23-2151645651.jpg?t=st=1727597533~exp=1727601133~hmac=5f65e9264328eb28dd267fed5970c0757a7c0edbdd14d8c9e585c1cbac0b6507&w=740">
 
 - 🌱 I’m currently learning **React js**
 
