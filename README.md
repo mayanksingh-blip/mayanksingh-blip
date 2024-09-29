@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/5330387/183502751-f29645f1-ccb4-408b-be1d-c6ef31649345.png)]
+![MasterHead](https://user-images.githubusercontent.com/5330387/183502751-f29645f1-ccb4-408b-be1d-c6ef31649345.png)
 <h1 align="center">Hi 👋, I'm Mayank Singh</h1>
 <h3 align="center">A passionate developer</h3>
 <img align ="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/programmer-cartoon-character-coding-icon-vector_1080480-50016.jpg">
