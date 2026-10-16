@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Mayank%20Singh&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20AI&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Mayank Singh profile banner" />
 
   <p>
-    <a href="https://twitter.com/mayanksinghx1">
+    <a href="https://x.com/Mayankprogresss">
       <img src="https://img.shields.io/badge/X-111827?style=flat-square&logo=x&logoColor=white" alt="X profile" />
     </a>
     <a href="https://www.codechef.com/users/mayanksingh_x1">
