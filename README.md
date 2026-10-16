@@ -1,19 +1,52 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Hi 👋, I'm Mayank Singh</h1>
-<h3 align="center">A programmer and a problem solver</h3>
-<img align ="right" alt="coding" width="400" src="https://img.freepik.com/free-photo/cyber-security-experts-working-with-tech-devices-neon-lights_23-2151645651.jpg?t=st=1727597533~exp=1727601133~hmac=5f65e9264328eb28dd267fed5970c0757a7c0edbdd14d8c9e585c1cbac0b6507&w=740">
 
-- 🌱 I’m currently learning **React js**
+<!-- Minimal GitHub Profile README -->
 
-- 💬 Ask me about **Python**
+<div align="center">
 
-- 📫 How to reach me **mayank.singhh11@gmail.com**
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Mayank%20Singh&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20AI&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Mayank Singh profile banner" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mayanksinghx1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayanksinghx1" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mayanksingh_x1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mayanksingh_x1" height="30" width="40" /></a>
+  <p>
+    <a href="https://twitter.com/mayanksinghx1">
+      <img src="https://img.shields.io/badge/X-111827?style=flat-square&logo=x&logoColor=white" alt="X profile" />
+    </a>
+    <a href="https://www.codechef.com/users/mayanksingh_x1">
+      <img src="https://img.shields.io/badge/CodeChef-111827?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef profile" />
+    </a>
+    <a href="mailto:mayank.singhh11@gmail.com">
+      <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email Mayank" />
+    </a>
+  </p>
+
+</div>
+
+## About Me
+
+I'm a Software Engineer focused on building scalable backend systems, reliable APIs, and AI-powered applications.
+
+- ⚙️ Building backend services, REST APIs, and microservices
+- 🤖 Exploring AI agents, LLM integrations, and RAG systems
+- ☁️ Working with Docker, AWS, CI/CD, and cloud infrastructure
+- 🧠 Interested in system design, performance, and clean architecture
+- 📫 Reach me at **[mayank.singhh11@gmail.com](mailto:mayank.singhh11@gmail.com)**
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,mysql,redis,docker,aws,githubactions,linux,git,postman,react&perline=7&theme=dark" alt="Technology stack" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## AI & Backend
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LangChain-111827?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/REST_APIs-111827?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Microservices-111827?style=flat-square" alt="Microservices" />
+</p>
+
+---
+
+<div align="center">
+  <i>Build with purpose. Learn continuously. Ship reliably.</i>
+</div>
