@@ -1,52 +1,100 @@
 
-<!-- Minimal GitHub Profile README -->
-
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Mayank%20Singh&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20AI&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Mayank Singh profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=Mayank%20Singh&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=Full%20Stack%20Software%20Engineer%20%7C%20AI%20Builder&descSize=16&descColor=58A6FF&descAlignY=65" width="100%" alt="Mayank Singh" />
 
-  <p>
-    <a href="https://x.com/Mayankprogresss">
-      <img src="https://img.shields.io/badge/X-111827?style=flat-square&logo=x&logoColor=white" alt="X profile" />
-    </a>
-    <a href="https://www.codechef.com/users/mayanksingh_x1">
-      <img src="https://img.shields.io/badge/CodeChef-111827?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef profile" />
-    </a>
-    <a href="mailto:mayank.singhh11@gmail.com">
-      <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email Mayank" />
-    </a>
-  </p>
+<br/>
+
+<a href="https://linkedin.com/in/mayanksinghx1">
+<img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/mayanksinghx1">
+<img src="https://img.shields.io/badge/X-161B22?style=flat-square&logo=x&logoColor=white" alt="X"/>
+</a>
+<a href="mailto:mayank.singhh11@gmail.com">
+<img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/>
+</a>
 
 </div>
 
-## About Me
+## `$ whoami`
 
-I'm a Software Engineer focused on building scalable backend systems, reliable APIs, and AI-powered applications.
+Full Stack Software Engineer focused on building scalable applications, robust backend systems, and AI-powered products.
 
-- ⚙️ Building backend services, REST APIs, and microservices
-- 🤖 Exploring AI agents, LLM integrations, and RAG systems
-- ☁️ Working with Docker, AWS, CI/CD, and cloud infrastructure
-- 🧠 Interested in system design, performance, and clean architecture
-- 📫 Reach me at **[mayank.singhh11@gmail.com](mailto:mayank.singhh11@gmail.com)**
+- 💻 Building end-to-end web applications and REST APIs
+- ⚙️ Designing backend services, microservices, and real-time systems
+- 🤖 Integrating LLMs, AI agents, and intelligent workflows
+- ☁️ Deploying applications with Docker, AWS, and CI/CD
+- 🚀 Turning complex requirements into reliable, production-ready software
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,mysql,redis,docker,aws,githubactions,linux,git,postman,react&perline=7&theme=dark" alt="Technology stack" />
-</p>
+**Frontend**
+<br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/React-161B22?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css3)
 
-## AI & Backend
+**Backend & APIs**
+<br/>
+![Node.js](https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express)
+![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python)
+![REST APIs](https://img.shields.io/badge/REST_APIs-161B22?style=flat-square)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-161B22?style=flat-square&logo=socketdotio)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/LangChain-111827?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/REST_APIs-111827?style=flat-square" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Microservices-111827?style=flat-square" alt="Microservices" />
-</p>
+**Databases & Messaging**
+<br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-161B22?style=flat-square&logo=redis)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-161B22?style=flat-square&logo=rabbitmq)
+
+**AI & Integrations**
+<br/>
+![OpenAI](https://img.shields.io/badge/OpenAI-161B22?style=flat-square&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-161B22?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-161B22?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-161B22?style=flat-square)
+
+**Cloud & DevOps**
+<br/>
+![Docker](https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-161B22?style=flat-square&logo=amazonaws)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-161B22?style=flat-square&logo=githubactions)
+![Linux](https://img.shields.io/badge/Linux-161B22?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git)
+
+## Selected Projects
+
+**SmartPorters** — Baggage logistics platform
+<br/>
+Backend systems for bookings, payments, itineraries, driver workflows, and real-time operational monitoring.
+
+**ArcX / MusicBoost** — AI-powered music recommendations
+<br/>
+AI-assisted music discovery integrating streaming platforms, recommendation workflows, and asynchronous processing.
+
+**CV AI Service** — AI-powered computer vision
+<br/>
+Intelligent image analysis and apartment detection using LLM APIs and structured processing workflows.
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="165" alt="GitHub statistics"/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" height="165" alt="GitHub contribution streak"/>
+
+</div>
 
 ---
 
 <div align="center">
-  <i>Build with purpose. Learn continuously. Ship reliably.</i>
+
+*Build thoughtfully. Ship reliably. Keep learning.*
+
 </div>
